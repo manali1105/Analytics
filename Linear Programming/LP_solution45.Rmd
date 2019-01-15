@@ -1,0 +1,39 @@
+/ * part 4 of LP problem * /
+```{r}
+library("lpSolveAPI")
+x <- read.lp("LP4.lp")
+x
+```
+
+```{r}
+solve(x)
+get.objective(x)
+```
+```{r}
+get.variables(x)
+```
+
+```{r}
+get.constraints(x)
+```
+
+
+/*part 5 of LP problem */
+
+```{r}
+library("lpSolveAPI")
+x <- read.lp("LP5.lp")
+x
+```
+```{r}
+solve(x)
+get.objective(x)
+```
+```{r}
+get.variables(x)
+```
+
+```{r}
+get.constraints(x)
+```
+
