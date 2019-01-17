@@ -1,4 +1,5 @@
-This repository contains different optimization techniques that can be used.
+This repository contains different optimization methods that can be used.
 
 
-Each Folder has information about Sample problem statement, in which scenario the technique should be used and solution to the Problem Statement.
+Each Folder contains problem statement and solution to the problem with the bes suitable method.
+
